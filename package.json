@@ -9,7 +9,7 @@
     "migrate": "bun src/db/migrate.ts",
     "seed": "bun src/db/seed.ts"
   },
-  "author": "Diego Fernandes <diego.schell.f@gmail.com>",
+  "author": "João M J Braga joomdeveloper.app@gmail.com",
   "license": "MIT",
   "dependencies": {
     "@elysiajs/cookie": "^0.7.0",
