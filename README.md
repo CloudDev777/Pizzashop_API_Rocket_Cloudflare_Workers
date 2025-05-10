@@ -12,8 +12,8 @@ Este projeto utiliza o **Docker** para configurar o banco de dados.
 
 ### Instalado para rodar a aplicação:
 ```bash
-git clone https://github.com/joaomjbraga/pizzashop-API_Rocket.git
-cd pizzashop-API_Rocket
+git clone https://github.com/CloudDev777/Pizzashop_API_Rocket_Cloudflare_Workers.git
+cd Pizzashop_API_Rocket_Cloudflare_Workers
 bun i                 # Instala as dependências
 docker compose up -d  # Inicia os containers do banco de dados
 bun migrate           # Executa as migrações do banco
